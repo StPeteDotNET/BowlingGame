@@ -1,6 +1,8 @@
 # BowlingGame
 The Bowling Game Kata - examples in C#
 
+[![Build status](https://travis-ci.org/StPeteNet/BowlingGame.svg?branch=master)](https://travis-ci.org/StPeteNet/BowlingGame)
+
 * ItExists
 * ItHasScoreMethod
 * ItHasRollMethod
